@@ -11,7 +11,7 @@
 - 📫 How to reach me **abhishekkagale2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style = "margin-top:10px">
 <a href="https://linkedin.com/in/abhishek kagale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kagale" height="30" width="40" /></a>
 </p>
 
