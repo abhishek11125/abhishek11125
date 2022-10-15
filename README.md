@@ -14,6 +14,7 @@
 - 📫 How to reach me **abhishekkagale2@gmail.com**
   <br />
   <br />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek11125&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek11125" /> </p>
   <br />
 
 <h3 align="left">Connect with me:</h3>
