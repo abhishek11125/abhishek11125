@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [Get my portfolio here](Get my portfolio here)
+- 👨‍💻 All of my projects are available at [Get my portfolio here](https://abhishek11125.github.io/)
 
 - 💬 Ask me about **JavaScript, Java, HTML, CSS.**
 
