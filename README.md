@@ -27,12 +27,15 @@ From Maharashtra, India. I am an enthusiastic tech world explorer with java back
 <hr/>
 <br />
 
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek11125&show_icons=true&locale=en&layout=compact" alt="abhishek11125"/> <img align="right"style="max-width:35%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek11125&" alt="abhishek11125" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek11125&show_icons=true&locale=en&layout=compact" alt="abhishek11125"/></p> 
 <hr/>
 <br />
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=abhishek11125&show_icons=true&locale=en" alt="abhishek11125" /></p>
+<br />
 <hr/>
 <br />
-
+<p align="left"><img style="max-width=50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek11125&" alt="abhishek11125" /></p>
+<br />
+<hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek11125" alt="abhishek11125" /></a> </p>
 <hr/>
