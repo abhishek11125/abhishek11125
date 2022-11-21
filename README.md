@@ -18,7 +18,7 @@ From Maharashtra, India. I am an enthusiastic tech world explorer with java back
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek kagale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kagale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-kagale-744090119/overlay/contact-info/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kagale" height="30" width="40" /></a>
 </p>
 <br />
 
