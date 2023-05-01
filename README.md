@@ -5,7 +5,7 @@ From Maharashtra, India. I am an enthusiastic tech world explorer with java back
 <br />
 <br />
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **JavaScript, Java, HTML, CSS.**
 
